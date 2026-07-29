@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandanalaThanusri
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning c programming
+- 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
